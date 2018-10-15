@@ -8,6 +8,8 @@ author: "山腰亮介"
 author2: Ryosuke Yamakoshi
 tags: 
 - 瀧口修造
+- 時間性
+- レイアウト
 cite: true
 photo: img/takiguchi2.jpg
 photo_from: 『⻩よ。 おまえはなぜ』 (南画廊、1964 年、一部) 
