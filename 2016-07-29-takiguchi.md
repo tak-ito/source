@@ -5,7 +5,7 @@ image_link: "http://www.keio-up.co.jp/kup/sp/takiguchi/"
 tags:
 - "瀧口修造"
 - "ジャック・デュパン"
-date: "2016-07-27T21:00:00+02:00"
+date: "2016-07-29T21:00:00+02:00"
 title: "瀧口修造とジャック・デュパンを読む"
 categories:
 - "現代詩読書会"
