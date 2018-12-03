@@ -8,8 +8,8 @@ tags:
 date: "2016-07-29T21:00:00+02:00"
 title: "瀧口修造とジャック・デュパンを読む"
 categories:
-- "現代詩読書会"
-number: 1
+- "フランス現代詩読書会"
+number: 34
 author: "山腰亮介"
 cite: true
 place: "オンライン"
