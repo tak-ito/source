@@ -11,7 +11,7 @@ photo_from: https://www.babelio.com/livres/Butor-Seize-lustres/344605
 
 ---
 
-次回の研究会は1月下旬日を予定しております。参加希望者は[こちら](/contact/)まで。
+次回の研究会は1月下旬を予定しております。参加希望者は[こちら](/contact/)まで。
 
 ## ワークショップ：ミシェル・ビュトールを読む
 
