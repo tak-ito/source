@@ -6,25 +6,29 @@ categories:
 tags: 
 - 
 top: True
-photo: img/butor.jpg
-photo_from: https://www.babelio.com/livres/Butor-Seize-lustres/344605
+photo: img/morandi.jpg
+photo_from: 
 
 ---
 
-次回の研究会は1月下旬を予定しております。参加希望者は[こちら](/contact/)まで。
+次回の研究会は2月下旬を予定しております。参加希望者は[こちら](/contact/)まで。
 
-## ワークショップ：ミシェル・ビュトールを読む
+## 研究発表：「イヴ・ボヌフォワとジョルジョ・モランディ」
 
-- **発表者：須田永遠**
+- **発表者：久保田悠介**（東京大学大学院博士課程）
+
+- **要旨**：
+
+## ワークショップ：ピエール・ジャン・ジューヴを読む
 
 <!--more-->
 
 - **対象詩**：
 
-	- Michel Butor, « Que reste-t-il du chiffre XX? », « En avant pour le XXI! », « Après coup » (*Seize Lustres*,Gallimard, 2006).
+	- Pierre Jean Jouve, *Sueur du sang* より « Espagne », « Lamentations au cerf », « Incarnation » の三篇
 
 ＊ワークショップの詩篇は事前に読んできていただけると助かります。
 
 奮ってご参加ください。
 
-[参考資料（会員限定）](https://groups.google.com/d/msg/poesiecontemporaine/OBBv_LPQ2Xk/r14omps1EwAJ)
+[参考資料]()
