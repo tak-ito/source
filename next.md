@@ -6,22 +6,25 @@ categories:
 tags: 
 - 
 top: True
-photo: img/morandi.jpg
-photo_from: http://www.artnet.fr/artistes/giorgio-morandi/natura-morta-nature-morte-%C3%A0-la-bouteille-blanche-PsjtAbi4cI9kEPxQ8l3CrA2
+photo: img/bonnefoy2.jpg
+photo_from: http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-essais/Le-Nuage-rouge
 
 ---
 
 次回の研究会は2月下旬を予定しております。参加希望者は[こちら](/contact/)まで。
 
-## 研究発表：「イヴ・ボヌフォワとジョルジョ・モランディ」
+## 【研究発表】「イヴ・ボヌフォワとジョルジョ・モランディ」
 
 - **発表者：久保田悠介**（東京大学大学院博士課程）
 
+<!--more-->
+
 - **要旨**：
 
-## ワークショップ：ピエール・ジャン・ジューヴを読む
+（準備中）
 
-<!--more-->
+## 【ワークショップ（読書会）】
+
 
 - **対象詩**：
 
