@@ -7,7 +7,7 @@ tags:
 - 
 top: True
 photo: img/morandi.jpg
-photo_from: 
+photo_from: http://www.artnet.fr/artistes/giorgio-morandi/natura-morta-nature-morte-%C3%A0-la-bouteille-blanche-PsjtAbi4cI9kEPxQ8l3CrA2
 
 ---
 
