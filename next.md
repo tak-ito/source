@@ -6,8 +6,8 @@ categories:
 tags: 
 - 
 top: True
-photo: img/bonnefoy2.jpg
-photo_from: http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-essais/Le-Nuage-rouge
+photo: img/morandi.jpg
+photo_from: https://arthistoryproject.com/artists/giorgio-morandi/houses-of-campiaro-in-grizzana
 
 ---
 
