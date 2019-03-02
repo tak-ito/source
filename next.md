@@ -6,22 +6,26 @@ categories:
 tags: 
 - 
 top: True
-photo: img/morandi.jpg
-photo_from: https://arthistoryproject.com/artists/giorgio-morandi/houses-of-campiaro-in-grizzana
+photo: 
+photo_from: 
 
 ---
 
-次回の研究会は2月下旬を予定しております。参加希望者は[こちら](/contact/)まで。
+次回の研究会は3月下旬を予定しております。参加希望者は[こちら](/contact/)まで。
 
+<!--more-->
+
+
+<!---
 ## 【研究発表】「イヴ・ボヌフォワとジョルジョ・モランディ」
 
 - **発表者：久保田悠介**（東京大学大学院博士課程）
 
-<!--more-->
 
 - **要旨**：
 
 ボヌフォワは詩作品とともに多くの美術批評を残しているが、それらのテクストでとりわけ主題となるのは、ボヌフォワがしばしば引用する「詩は絵の如く」（Ut Pictura Poesis）という句に象徴されるような美術と詩が相互にもつ関係である。本発表では詩と美術を扱った評論集『赤い雲』（*Le Nuage Rouge*）に収録された「モランディの地平で」（À l'horizon de Morandi）を扱うことで、ボヌフォワにとって詩と美術が如何なる関係を持っていたかを明らかにすることを目指す。「モランディの地平で」は、イタリアの画家ジョルジョ・モランディを扱ったテクストだが、そこでのマラルメを中心とする詩人への言及と比較することでボヌフォワにとって詩と美術に通底する問題系を明らかにすることが出来るであろう。
+
 
 ## 【ワークショップ（読書会）】
 
@@ -35,3 +39,5 @@ photo_from: https://arthistoryproject.com/artists/giorgio-morandi/houses-of-camp
 奮ってご参加ください。
 
 [参考資料（課題詩）](https://groups.google.com/d/msg/poesiecontemporaine/llYLiyhS0mU/21X_3UYfBAAJ)
+
+--->
