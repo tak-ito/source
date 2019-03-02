@@ -34,4 +34,4 @@ photo_from: https://arthistoryproject.com/artists/giorgio-morandi/houses-of-camp
 
 奮ってご参加ください。
 
-[参考資料]()
+[参考資料（課題詩）](https://groups.google.com/d/msg/poesiecontemporaine/llYLiyhS0mU/21X_3UYfBAAJ)
