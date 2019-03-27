@@ -3,7 +3,7 @@ title: ジュール・シュペルヴィエルのconte-poèmeについて
 date: 2018-08-28
 categories:
 - "フランス現代詩研究会"
-number: 3
+number: 40
 author: "佐藤園子"
 author2: Sonoko Sato
 tags: 
