@@ -31,5 +31,3 @@ photo_from: http://www.museedegrenoble.fr/TPL_CODE/TPL_OEUVRE/PAR_TPL_IDENTIFIAN
 - [参考資料2（試訳）](https://groups.google.com/d/msg/poesiecontemporaine/OoPi8RzBTe0/BUFQdyaDBAAJ)
 
 <!--more-->
-
-
